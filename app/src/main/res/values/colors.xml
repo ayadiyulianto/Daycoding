@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="YInMnBlue" hex="26547c" r="38" g="84" b="124">#26547c</color>
+    <color name="Brightpink" hex="ef476f" r="239" g="71" b="111">#ef476f</color>
+    <color name="Sunglow" hex="ffd166" r="255" g="209" b="102">#ffd166</color>
+    <color name="Emerald" hex="06d6a0" r="6" g="214" b="160">#06d6a0</color>
+    <color name="Babypowder" hex="fffcf9" r="255" g="252" b="249">#fffcf9</color>
+</resources>

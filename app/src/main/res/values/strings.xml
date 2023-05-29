@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Daycoding</string>
+    <string name="logo_daycoding">Logo Daycoding</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="hai_coders">Hai, Coders!</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="welcome_coders">Welcome, Coders!</string>
+    <string name="login_success">Berhasil login</string>
+    <string name="error_message">Terjadi kesalahan: %1$s</string>
+    <string name="language">Bahasa</string>
+    <string name="lorem_ipsum" translatable="false">Lorem Ipsum</string>
+    <string name="photo_story">Foto cerita</string>
+    <string name="lorep_ipsum_dolor_sit_amet" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="save_to_favorite">Simpan ke Daftar Favorit</string>
+    <string name="logout">Log out</string>
+    <string name="logout_success">Logout berhasil, anda akan ke tampilan login</string>
+    <string name="camera">Kamera</string>
+    <string name="galery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="please_add_photo">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="upload_success">Unggah cerita berhasil</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_text">No data</string>
+    <string name="story_of_daycoding">Story of Daycoding</string>
+    <string name="story_photo_description">Foto cerita yang akan diupload</string>
+    <string name="email_format_not_valid">Format email tidak sesuai!</string>
+    <string name="password_less_than_8_chars">Password kurang dari 8 karakter!</string>
+    <string name="locations">Lokasi</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="allow_access_location">Izinkan mencatat lokasi saat ini</string>
+    <string name="permissions_not_granted">Tidak mendapatkan izin</string>
+    <string name="retry">Coba lagi</string>
+    <string name="timeout">Timeout</string>
+</resources>

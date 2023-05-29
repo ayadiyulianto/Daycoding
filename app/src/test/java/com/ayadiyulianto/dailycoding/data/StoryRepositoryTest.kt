@@ -1,0 +1,3 @@
+package com.ayadiyulianto.dailycoding.data
+
+class StoryRepositoryTest

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daycoding</string>
+    <string name="logo_daycoding">Daycoding\'s Logo</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="hai_coders">Hai, Coders!</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="welcome_coders">Welcome, Coders!</string>
+    <string name="login_success">Login success</string>
+    <string name="error_message">There\'s an error: %1$s</string>
+    <string name="language">Language</string>
+    <string name="photo_story">Story\'s photo</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_story">Add Story</string>
+    <string name="save_to_favorite">Save to Favorites</string>
+    <string name="logout">Log out</string>
+    <string name="logout_success">Log out success, redirect to login page</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="please_add_photo">Please add photo</string>
+    <string name="upload_success">Upload story success</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="empty_text">No data</string>
+    <string name="story_of_daycoding">Story of Daycoding</string>
+</resources>

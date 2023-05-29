@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daycoding</string>
+    <string name="logo_daycoding">Logo Daycoding</string>
+    <string name="email">Email</string>
+    <string name="login">Masuk</string>
+    <string name="hai_coders">Hai, Tukang Kode!</string>
+    <string name="password">Kata sandi</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="welcome_coders">Selamat datang, Tukang Kode!</string>
+    <string name="login_success">Berhasil login</string>
+    <string name="error_message">Terjadi kesalahan: %1$s</string>
+    <string name="language">Bahasa</string>
+    <string name="photo_story">Foto cerita</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_story">Tambah cerita</string>
+    <string name="save_to_favorite">Simpan ke daftar favorit</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_success">Berhasil keluar, anda akan dibawa ke halaman masuk</string>
+    <string name="camera">Kamera</string>
+    <string name="galery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="please_add_photo">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="upload_success">Unggah cerita berhasil</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget aplikasi</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="story_of_daycoding">Cerita Daycoding</string>
+</resources>
